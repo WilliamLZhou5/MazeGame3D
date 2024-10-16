@@ -1,0 +1,10 @@
+{
+    "title": "3D Maze Game",
+    "description": "First person maze game, rendering without reliance of engine",
+    "team": [],
+    "languages": ["Python"],
+    "frameworks": ["Pygame"],
+    "designPatterns": ["State", "Factory"],
+    "showProject": true,
+    "hasPreview": false
+}
